@@ -14,8 +14,8 @@ I'm provisioning a VM to be used as an Nginx server, hosting my wedding website.
 
 ### Nomad 💚
 
-MTC 🥲
+`More to come` 🥲
 
 ### Vault 💛
 
-MTC 🥲
+`More to come` 🥲
